@@ -31,7 +31,7 @@ The external modules required to run the program include:
 
 Installation
 
-clone the repository by using "git clone https://mygit.wmg.warwick.ac.uk/u5680156/wm180-5680156/-/tree/de0eb66d1b650dd898b7531155c7fa5793813abc/ "
+clone the repository by using "git clone https://mygit.wmg.warwick.ac.uk/u5680156/wm180-5680156/-/tree/de0eb66d1b650dd898b7531155c7fa5793813abc/](https://github.com/hannahhemnani-source/StudentRecordLookupSystem.git "
 ensure all files are stored within the same folder
 
 Running ByteBridge - File Paths
